@@ -1,0 +1,52 @@
+html {
+  font-size: 12px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-family: 'Open Sans', sans-serif; /* this should be the rest of the output you got from Google fonts */
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+html {
+  background-color: #FFDF00;
+}
+
+body {
+  width: 600px;
+  margin: auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+  border-radius: 10px;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: #00539F;
+  text-shadow: 1px 1px 1px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  height: 40%;
+  width: 40%;
+}
+
+button {
+  display: block;
+  margin: auto;
+  width: 200px;
+}
